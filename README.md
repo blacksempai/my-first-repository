@@ -20,7 +20,7 @@
   }
  ```
  
-This is Unordered list:
+You can reach me via the links:
 * [my facebook](http://github.com)
 * [my website](http://github.com)
 * [my telegram](http://github.com)
